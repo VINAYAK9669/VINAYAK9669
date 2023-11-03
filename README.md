@@ -4,7 +4,7 @@
 <h3 align="center">Passionate React.js Developer Building Interactive Web Experiences</h3>
 
 <img align ="right" alt="coding" width="400" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak9669&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak9669" /> </p>
+
 
 - 🌱 I’m currently learning **React [Professional Level]**
 
