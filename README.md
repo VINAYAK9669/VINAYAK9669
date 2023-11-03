@@ -1,13 +1,10 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm VINAYAK KITTAD</h1>
 <h3 align="center">Passionate React.js Developer Building Interactive Web Experiences</h3>
 
 <img align ="right" alt="coding" width="400" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak9669&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak9669" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak9669" alt="vinayak9669" /></a> </p>
 
 - 🌱 I’m currently learning **React [Professional Level]**
 
