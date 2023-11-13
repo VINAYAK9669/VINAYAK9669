@@ -1,4 +1,4 @@
-![image](https://drive.google.com/file/d/1hrTd9HxLfj983WaXbKEgBYKoPfbLoEpf/view?usp=sharing)
+![image](https://i.imgur.com/WQDuyFg.png)
 
 <h1 align="center">Hi 👋, I'm VINAYAK KITTAD</h1>
 <h3 align="center">Passionate React.js Developer Building Interactive Web Experiences</h3>
