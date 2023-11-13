@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/WQDuyFg.png)
+![Masterimage](https://i.imgur.com/WQDuyFg.png)
 
 <h1 align="center">Hi 👋, I'm VINAYAK KITTAD</h1>
 <h3 align="center">Passionate React.js Developer Building Interactive Web Experiences</h3>
