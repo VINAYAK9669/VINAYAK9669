@@ -7,9 +7,11 @@
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU"/>
 
-- 🌱 I’m currently learning **React [Professional Level]**
-- 💬 Ask me about **HTML | CSS | JavaScript | Java | DSA | React.js**
-- 📫 How to reach me: **vinayakkittad@gmail.com**
+- 🌱 I’m currently learning **Backend[Nodejs Express MangoDB]**
+- 
+- 💬 Ask me about **HTML | CSS | JavaScript | React.js | React Router | Redux toolkit| Tailwind CSS**
+- 
+- 📫 How to reach me: **vinayakkittad@gmail.com** **7822020891**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
