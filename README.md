@@ -1,4 +1,8 @@
-<p align="center">
+
+
+<p>
+  <img align="center" src="https://github-readme-stats.v/>
+  <p align="center">
   <img src="https://i.imgur.com/WQDuyFg.png" alt="Masterimage"/>
 </p>
 
@@ -13,34 +17,22 @@
 - 
 - 📫 How to reach me: **vinayakkittad@gmail.com** **7822020891**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-</p>
+<h3 align="left">Projects:</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak9669&show_icons=true&locale=en&layout=compact" alt="vinayak9669"/>
-</p>
+### React Projects:
 
-<p>
-  <img align="center" src="https://github-readme-stats.v
+1) **World Wise Map Application**
+   - [GitHub Link](https://lnkd.in/gdayRh7w)
+   - [LinkedIn Post](https://www.linkedin.com/posts/vinay1998_reactdeveloper-frontenddeveloper-webdeveloper-activity-7126886261495140352-DVCN?utm_source=share&utm_medium=member_desktop)
+
+2) **React Quiz App**
+   - [LinkedIn Post](https://www.linkedin.com/posts/vinay1998_reactjs-webdevelopment-frontenddevelopment-activity-7125437291241644032-3ko7?utm_source=share&utm_medium=member_desktop)
+   - [GitHub Link](https://lnkd.in/gR4r2f9T)
+
+3) **PopCorn - Movie Rating APP**
+   - [LinkedIn Post](https://www.linkedin.com/posts/vinay1998_jobseeker-reactdeveloper-frontenddeveloper-activity-7118903567045836800-zJRI?utm_source=share&utm_medium=member_desktop)
+   - [GitHub Link](https://lnkd.in/gQt9KczD)
+
+4) **E-commerce Product Page**
+   - [GitHub Link](https://github.com/VINAYAK9669/E-commerceWebsite-frontend-mentor-challenge)
+   - [LinkedIn Post Link](https://www.linkedin.com/posts/vinay1998_frontendchallenge-ecommercewebsite-react-activity-7132431009920270336-llOh?utm_source=share&utm_medium=member_desktop)
