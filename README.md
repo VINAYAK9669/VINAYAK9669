@@ -3,7 +3,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.v/>
   <p align="center">
-  <img src="https://i.imgur.com/WQDuyFg.png" alt="Masterimage"/>
+  <img src="https://imgur.com/a/BnTIy5o" alt="Masterimage"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm VINAYAK KITTAD</h1>
