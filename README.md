@@ -24,20 +24,20 @@
 
 > #### 1] React Pizza Order App [Responsive]
 
-        ***Description***<br/>
-        Welcome to the React Pizza Order App, a professional-level web application that takes you through the entire process from user registration to order confirmation. This app is built using the latest technologies and follows best practices in React development. <br/>
+ ***Description***<br/>
+ Welcome to the React Pizza Order App, a professional-level web application that takes you through the entire process from user registration to order confirmation. This app is built using the latest technologies and follows best practices in React development. <br/>
 
-        ***Flow & Implementations*** <br/>
-        - Home Page : Collects ****Username****
-        - Menu Page : Show the list in UI from API, on each product have a functionality of ****Add to Cart**** ****Delete, Increase Qty, Decrease Qty****, ****Cart Details****
+ ***Flow & Implementations*** <br/>
+ - Home Page : Collects ****Username****
+ - Menu Page : Show the list in UI from API, on each product have a functionality of ****Add to Cart**** ****Delete, Increase Qty, Decrease Qty****, ****Cart Details****
 
 
-        ***Tech Stack used*** <br/>
-        *React.js | React Router | Redux-tookit | Redux-thunk | Tailwind CSS* <br/>
+ ***Tech Stack used*** <br/>
+ *React.js | React Router | Redux-tookit | Redux-thunk | Tailwind CSS* <br/>
 
-***Links***<br/>
-- [Netlify Hosted Link](https://react-pizza-ordering-app-by-advinay.netlify.app/)
-- [Github Repository](https://github.com/VINAYAK9669/Pizza_ordering_app)
+ ***Links***<br/>
+ - [Netlify Hosted Link](https://react-pizza-ordering-app-by-advinay.netlify.app/)
+ - [Github Repository](https://github.com/VINAYAK9669/Pizza_ordering_app)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
