@@ -28,7 +28,7 @@
 Welcome to the React Pizza Order App, a professional-level web application that takes you through the entire process from user registration to order confirmation. This app is built using the latest technologies and follows best practices in React development. <br/>
 
 ***Flow & Implementations*** <br/>
-- Home Page : Collects ***Username**
+- Home Page : Collects ****Username****
 - Menu Page : Show the list in UI from API, on each product have a functionality of ****Add to Cart**** ****Delete, Increase Qty, Decrease Qty****, ****Cart Details****
 
 
