@@ -40,6 +40,29 @@
  - [Netlify Hosted Link](https://react-pizza-ordering-app-by-advinay.netlify.app/)
  - [Github Repository](https://github.com/VINAYAK9669/Pizza_ordering_app)
 
+> #### 2] WorldWise [Desktop App]
+
+ ***Description***<br/>
+This React Vite Single Page Application enables users to efficiently interact with a map, allowing them to select locations for updating personal notes. Users can seamlessly add or delete cities, leveraging a mock API for local machine operations, as backend functionality is not available on the hosted website. <br/>
+
+ ***Flow & Implementations*** <br/>
+ - `Home Page` : It have `Landing Page`, Navigation bar for `Pricing`, `Product` and `Login`
+ - `Login Page` : This will secure the 'App Layout page', only after succefull sign in user can able to use map application.
+ - `App Layout Page` : It have  `interactive Map `at right side and at the left side there is dyanamic side bar it contains 'form' to add slected city information, 'city' and 'countries' tabs inside the sidebar which shows the list of cities added to the mock api and countries respectively.
+
+
+ ***Tech Stack used*** <br/>
+ *React.js | React Router | CSS modules | API* <br/>
+ 
+***Implemented*** <br/>
+*context-API | leaflet Library [For map] | Local server to GET, POST, PUT, DELETE*
+ 
+
+ ***Links***<br/>
+ - [Netlify Hosted Link](https://worldwise-desktop-map-app.netlify.app/)
+ - [Github Repository](https://github.com/VINAYAK9669/WorldWiseWebAPP1/blob/main/README.md)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
