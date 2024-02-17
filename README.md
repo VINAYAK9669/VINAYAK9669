@@ -40,8 +40,7 @@
  - [Netlify Hosted Link](https://react-pizza-ordering-app-by-advinay.netlify.app/)
  - [Github Repository](https://github.com/VINAYAK9669/Pizza_ordering_app)
 
-<br/> <br/>
-***Screen Shot***<br/>
+***ScreenShot***<br/>
 <img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/Pizza_order_app.JPG" alt="drawing" width="350"/>
 <br/> <br/>
 > #### 2] 🌍 WorldWise Map Application - Desktop App 🗺️
