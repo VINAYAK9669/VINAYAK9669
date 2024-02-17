@@ -66,6 +66,7 @@ This React Vite Single Page Application enables users to efficiently interact wi
 
 ***Screen Shot***<br/>
 ![Image](https://portfolio-vinayak-kittad.netlify.app/assets/img/worldwise_poster.PNG)
+<img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/worldwise_poster.PNG" alt="drawing" width="200"/>
 
 <br/> <br/>
 <h3 align="left">Languages and Tools:</h3>
