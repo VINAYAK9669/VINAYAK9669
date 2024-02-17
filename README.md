@@ -65,7 +65,7 @@ This React Vite Single Page Application enables users to efficiently interact wi
  - [Github Repository](https://github.com/VINAYAK9669/WorldWiseWebAPP1/blob/main/README.md)
 
 ***Screen Shot***<br/>
-<img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/worldwise_poster.PNG" alt="drawing" width="450"/>
+<img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/worldwise_poster.PNG" alt="drawing" width="350"/>
 
 <br/> <br/>
 <h3 align="left">Languages and Tools:</h3>
