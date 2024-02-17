@@ -24,10 +24,15 @@
 
 #### 1] React Pizza Order App [Responsive]
 ***Description***
+
 Welcome to the React Pizza Order App, a professional-level web application that takes you through the entire process from user registration to order confirmation. This app is built using the latest technologies and follows best practices in React development.
+
 ***Tech Stack used***
+
 *React.js | React Router | Redux-tookit | Redux-thunk | Tailwind CSS*
+
 ***Links**
+
 -[Netlify Hosted Link](https://react-pizza-ordering-app-by-advinay.netlify.app/)
 -[Github Repository](https://github.com/VINAYAK9669/Pizza_ordering_app)
 
