@@ -23,13 +23,13 @@
 - In these applications, I've utilized cutting-edge technologies such as Redux Toolkit and Tailwind CSS, which elevate these projects to a professional level.
 
 #### 1] React Pizza Order App [Responsive]
-<br/>
+
 ***Description***<br/>
-Welcome to the React Pizza Order App, a professional-level web application that takes you through the entire process from user registration to order confirmation. This app is built using the latest technologies and follows best practices in React development.
-<br/> <br/>
+Welcome to the React Pizza Order App, a professional-level web application that takes you through the entire process from user registration to order confirmation. This app is built using the latest technologies and follows best practices in React development. <br/> <br/>
+
 ***Tech Stack used*** <br/>
-*React.js | React Router | Redux-tookit | Redux-thunk | Tailwind CSS*
-<br/> <br/>
+*React.js | React Router | Redux-tookit | Redux-thunk | Tailwind CSS* <br/> <br/>
+
 ***Links***<br/>
 -[Netlify Hosted Link](https://react-pizza-ordering-app-by-advinay.netlify.app/)
 -[Github Repository](https://github.com/VINAYAK9669/Pizza_ordering_app)
