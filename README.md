@@ -30,6 +30,7 @@
  ***Flow & Implementations*** <br/>
  - Home Page : Collects ****Username****
  - Menu Page : Show the list in UI from API, on each product have a functionality of ****Add to Cart**** ****Delete, Increase Qty, Decrease Qty****, ****Cart Details****
+ - Cart Page : back button to go to the `Menu page` , Display added items in the cart with quanitity, also option to ***Delete, Increase Qty, Decrease Qty***
 
 
  ***Tech Stack used*** <br/>
