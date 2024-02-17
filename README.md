@@ -41,8 +41,10 @@
  - [Github Repository](https://github.com/VINAYAK9669/Pizza_ordering_app)
 
 <br/> <br/>
-
-> #### 2] $${\color{red}Worldwide \space web \space application}$$
+***Screen Shot***<br/>
+<img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/Pizza_order_app.JPG" alt="drawing" width="350"/>
+<br/> <br/>
+> #### 2] 🌍 WorldWise Map Application - Desktop App 🗺️
 
  ***Description***<br/>
 This React Vite Single Page Application enables users to efficiently interact with a map, allowing them to select locations for updating personal notes. Users can seamlessly add or delete cities, leveraging a mock API for local machine operations, as backend functionality is not available on the hosted website. <br/>
@@ -51,7 +53,6 @@ This React Vite Single Page Application enables users to efficiently interact wi
  - `Home Page` : It have `Landing Page`, Navigation bar for `Pricing`, `Product` and `Login`
  - `Login Page` : This will secure the 'App Layout page', only after succefull sign in user can able to use map application.
  - `App Layout Page` : It have  `interactive Map `at right side and at the left side there is dyanamic side bar it contains 'form' to add slected city information, 'city' and 'countries' tabs inside the sidebar which shows the list of cities added to the mock api and countries respectively.
-
 
  ***Tech Stack used*** <br/>
  *React.js | React Router | CSS modules | API* <br/>
