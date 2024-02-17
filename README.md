@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vinayak Kittad</title>
-</head>
-<body style="background-color: black; color: white;">
+
   <div style="text-align: center;">
     <img src="https://i.imgur.com/xgLMhkG.png" alt="Masterimage">
     <h1>Hi 👋, I'm VINAYAK KITTAD</h1>
@@ -16,5 +9,3 @@
       <li>📫 How to reach me: <a href="mailto:vinay.reactdeveloper@gmail.com">vinay.reactdeveloper@gmail.com</a> | <a href="tel:+917822020891">7822020891</a></li>
     </ul>
   </div>
-</body>
-</html>
