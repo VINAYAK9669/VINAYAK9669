@@ -22,7 +22,7 @@
 - Well! These projects adhere to industry best practices not only in website development but also in terms of code readability, component structures, and performance optimization.
 - In these applications, I've utilized cutting-edge technologies such as Redux Toolkit and Tailwind CSS, which elevate these projects to a professional level.
 
-#### 1] React Pizza Order App [Responsive]
+> #### 1] React Pizza Order App [Responsive]
 
 ***Description***<br/>
 Welcome to the React Pizza Order App, a professional-level web application that takes you through the entire process from user registration to order confirmation. This app is built using the latest technologies and follows best practices in React development. <br/>
