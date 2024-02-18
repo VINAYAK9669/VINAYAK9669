@@ -137,6 +137,36 @@ This project involves the creation of a Booking App with an interactive calendar
 <img src="https://github.com/VINAYAK9669/BookingApp-with-Calendar-from-Scratch/raw/main/public/screenshots/step-14.JPG" alt="drawing" width="350"/>
 
 <br/> <br/>
+
+> ### Advance-Level Projects [React.js Based]
+<br/>
+> #### 1] 🍿 Project - PopCorn [Movie Rating Web App] - Desktop App
+
+ ***Description***<br/>
+Experience the Movie Rating App – a seamless blend of user interaction and data representation. With a dynamic search bar, API integration, and a star rating component, users can effortlessly rate and manage their watched list. Dive into a personalized movie experience, discovering the power of React.js components, API handling, and UI enhancement.
+<br/>
+
+ ***Flow & Implementations*** <br/>
+ - **`Landing Page`** : It have `Navigation Bar` which holds `Logo`, `Input search bar`, `Count of Results`. By `Input Search` we can search the required movie , and this data fecthes from an `API`. The number of results fecthed from the API will show in the nav bar `result found`.
+ - **`Once the Movie name is searched`** : Below the navigation bar there are two divisions of the screen left side we show the `List of the results` and  at the right side `Movie Details`.
+ - **`Upon Clicking the any movie`** : Once the user clicks on the movie `Movie Deatils` will show at the right side and ask to `Rate the Movie`. Once the user Rate the Movie then `Add to List` button will appear, clicking on this will result into the saving the movie details to the `Local Storage` so that we need to prevent the user to rate this movie again. Also to show them the list of `Watched Movie List`
+ - **`Upon Clicking Add to List`** : Once the user click on `Add to List` Button the right side bar now will show you the list of the added movies in to the wastched list. Now user can have the `Delete` option to delete the movie from `wacthed list`.
+
+ ***Tech Stack used*** <br/>
+ *React.js | CSS | API | VS code* <br/>
+ 
+***Implemented*** <br/>
+* `customComponents`, `starComponent`, `ErrorHandling`, `Loaders`  to show the loading, `Local Stroage`*
+ <br/>
+ ***Links***<br/>
+ - [Netlify Hosted Link](https://vinayak9669.github.io/React_popcorn/)
+ - [Github Repository](https://github.com/VINAYAK9669/React_popcorn?tab=readme-ov-file)
+
+***Screen Shot***<br/>
+
+<img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/MovieRating_app_poster.PNG" alt="drawing" width="350"/>
+
+<br/> <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
