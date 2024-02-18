@@ -31,15 +31,27 @@
  Welcome to the React Pizza Order App, a professional-level web application that takes you through the entire process from user registration to order confirmation. This app is built using the latest technologies and follows best practices in React development. <br/>
 
  ***Flow & Implementations*** <br/>
- - **`Home Page`** : Collects ****Username****
+ - **`Home Page`** :
+    - Collects `Username` , until user enter their name don't show the `Start Ordering Button`.
   
- - **`Menu Page`** : Show the list in UI from API, on each product have a functionality of ****Add to Cart**** ****Delete, Increase Qty, Decrease Qty****, ****Cart Details****
+ - **`Menu Page`** :
+     - Show the list in UI from API
+     - Each product have a functionality of ****Add to Cart**** ****Delete, Increase Qty, Decrease Qty****
+     - At the Bottom show the `Quantity of Item`, `Total Price` and `Open Cart Option`
    
- - **`Cart Page`** : back button to go to the `Menu page` , Display added items in the cart with quanitity, also option to ***Delete, Increase Qty, Decrease Qty*** Finally it have two buttons `Order pizzas` and `Clear Cart`.
+ - **`Cart Page`** :
+    - It have `Back to Menu` button to go to the `Menu page`
+    - Display added items in the cart with `quanitity`, also option to ***Delete, Increase Qty, Decrease Qty***
+    - Finally it have two buttons `Order pizzas` and `Clear Cart`.
+    - Once user clicks on the `Order pizzas` it will take user to the `Form Page / Order Form`
     
- -  **`Order Form`** : This form automaticaly takes First Name from the `Home Page`, it have another fields called 'Phone Number' and `Adress`. For Phone Number validation used `RegExp` and for Adress there is an option to `Get Position` by which we can fetch our location automatically. Also this form have an extra option to make the `order Priority`.
+ -  **`Order Form`** :
+     -  This form automaticaly takes First Name from the `Home Page`, it have another fields called 'Phone Number' and `Adress`.
+     -  For Phone Number validation used `RegExp` and for Adress there is an option to `Get Position` by which we can fetch our location automatically.
+     -  Also this form have an extra option to make the `order Priority`. For this extra charges are needed.
    
- -  **`Order Confirmation`** : It shows the data  `priority Status`, `Preparing order`, `Minutes left to Delivery`, `Order Name with price`, `Total Bill`  
+ -  **`Order Confirmation`** :
+    -  It shows the datails of the order like `priority Status`, `Preparing order`, `Minutes left to Delivery`, `Order Name with price`, `Total Bill`  
 
  ***Tech Stack used*** <br/>
  *React.js | React Router | Redux-tookit | Redux-thunk | Tailwind CSS* <br/>
@@ -233,7 +245,7 @@ EduPath is a web application designed to help students discover and enroll in co
    - Shows course name, instructor name, thumbnail, due date, and progress bar.
    - Allows marking courses as completed.
     
-- **Advanced State Management:**
+- **`Advanced State Management`**
    - Utilizes Redux for effective state management.
 
  ***Tech Stack used*** <br/>
