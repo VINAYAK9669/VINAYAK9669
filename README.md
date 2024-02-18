@@ -289,7 +289,9 @@ EduPath is a web application designed to help students discover and enroll in co
 ***Screen Shot***<br/>
 <kbd>
 <img src="https://github.com/VINAYAK9669/Alemeno_task--Online_Course/raw/main/public/screenshots/course_list.JPG" alt="drawing" width="450"/>
+<br/>
 <img src="https://github.com/VINAYAK9669/Alemeno_task--Online_Course/raw/main/public/screenshots/course_details.JPG" alt="drawing" width="450"/>
+<br/>
 <img src="https://github.com/VINAYAK9669/Alemeno_task--Online_Course/raw/main/public/screenshots/course_dashboard.JPG" alt="drawing" width="450"/>
 </kbd>
 
