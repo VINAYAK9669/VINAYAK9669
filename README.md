@@ -30,8 +30,9 @@
  ***Flow & Implementations*** <br/>
  - `Home Page` : Collects ****Username****
  - `Menu Page` : Show the list in UI from API, on each product have a functionality of ****Add to Cart**** ****Delete, Increase Qty, Decrease Qty****, ****Cart Details****
- - `Cart Page` : back button to go to the `Menu page` , Display added items in the cart with quanitity, also option to ***Delete, Increase Qty, Decrease Qty***
-
+ - `Cart Page` : back button to go to the `Menu page` , Display added items in the cart with quanitity, also option to ***Delete, Increase Qty, Decrease Qty*** Finally it have two buttons `Order pizzas` and `Clear Cart`. 
+ -  `Order Form` : This form automaticaly takes First Name from the `Home Page`, it have another fields called 'Phone Number' and `Adress`. For Phone Number validation used `RegExp` and for Adress there is an option to `Get Position` by which we can fetch our location automatically. Also this form have an extra option to make the `order Priority`.
+ -  `Order Confirmation` : It shows the data  `priority Status`, `Preparing order`, `Minutes left to Delivery`, `Order Name with price`, `Total Bill`  
 
  ***Tech Stack used*** <br/>
  *React.js | React Router | Redux-tookit | Redux-thunk | Tailwind CSS* <br/>
