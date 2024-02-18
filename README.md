@@ -25,7 +25,7 @@
 - In these applications, I've utilized cutting-edge technologies such as Redux Toolkit and Tailwind CSS, which elevate these projects to a professional level.
 <br/> <br/>
 |--------------------------------|
-> #### 1] React Pizza Order App [Responsive]
+| > #### 1] React Pizza Order App [Responsive]
 
  ***Description***<br/>
  Welcome to the React Pizza Order App, a professional-level web application that takes you through the entire process from user registration to order confirmation. This app is built using the latest technologies and follows best practices in React development. <br/>
@@ -49,7 +49,7 @@
  - [Github Repository](https://github.com/VINAYAK9669/Pizza_ordering_app)
 
 ***ScreenShot***<br/>
-<img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/Pizza_order_app.JPG" alt="drawing" width="350"/>
+<img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/Pizza_order_app.JPG" alt="drawing" width="350"/> |
 <br/> <br/>
 > #### 2] 🌍 WorldWise Map Application - Desktop App 🗺️
 
