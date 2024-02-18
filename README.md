@@ -140,6 +140,7 @@ This project involves the creation of a Booking App with an interactive calendar
 
 > ### Advance-Level Projects [React.js Based]
 <br/>
+
 > #### 1] 🍿 Project - PopCorn [Movie Rating Web App] - Desktop App
 
  ***Description***<br/>
@@ -156,7 +157,8 @@ Experience the Movie Rating App – a seamless blend of user interaction and dat
  *React.js | CSS | API | VS code* <br/>
  
 ***Implemented*** <br/>
-* `customComponents`, `starComponent`, `ErrorHandling`, `Loaders`  to show the loading, `Local Stroage`*
+
+*`customComponents`, `starComponent`, `ErrorHandling`, `Loaders`  to show the loading, `Local Stroage`*
  <br/>
  ***Links***<br/>
  - [Netlify Hosted Link](https://vinayak9669.github.io/React_popcorn/)
