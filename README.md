@@ -52,7 +52,7 @@ This React Vite Single Page Application enables users to efficiently interact wi
  ***Flow & Implementations*** <br/>
  - `Home Page` : It have `Landing Page`, Navigation bar for `Pricing`, `Product` and `Login`
  - `Login Page` : This will secure the 'App Layout page', only after succefull sign in user can able to use map application.
- - `App Layout Page` : It have  `interactive Map `at right side and at the left side there is dyanamic side bar it contains 'form' to add slected city information, 'city' and 'countries' tabs inside the sidebar which shows the list of cities added to the mock api and countries respectively.
+ - `App Layout Page` : It have  `interactive Map `at right side and at the left side there is dyanamic side bar it contains 'form' to add slected city information, 'city' and 'countries' tabs inside the sidebar which shows the list of cities added to the mock api and countries respectively. Also whenever we click on the map it will send that location information to the URL and open the form to add note for cities.
 
  ***Tech Stack used*** <br/>
  *React.js | React Router | CSS modules | API* <br/>
@@ -85,7 +85,7 @@ As you answer questions, the app instantly updates your score and provides a com
  *React.js | CSS | API* <br/>
  
 ***Implemented*** <br/>
-*State Mangement using `useReducer()`, Questions are fecthed from an API*
+*State Mangement using `useReducer()`, Questions are fecthed from an API, timer using `setTimeout()`, Dyanamic `Progress Bar`*
  <br/>
  ***Links***<br/>
  - [Netlify Hosted Link](https://vinayak9669.github.io/React-QuizApp/)
