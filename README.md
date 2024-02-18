@@ -311,7 +311,7 @@ This project is a solution to the Frontend Mentor challenge, where I created a r
 ***Screen Shot***<br/>
 
 <kbd>
-<img src="https://github.com/VINAYAK9669/MultiStepForm-Frontend-Mentor-Advance-Level/blob/main/public/assets/screenshots/multistep_form.JPG?raw=true" alt="drawing" width="300"/>
+<img src="https://github.com/VINAYAK9669/MultiStepForm-Frontend-Mentor-Advance-Level/blob/main/public/assets/screenshots/multistep_form.JPG?raw=true" alt="drawing" width="350"/>
 </kbd>
 
 ---
