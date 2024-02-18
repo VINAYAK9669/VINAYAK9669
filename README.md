@@ -24,7 +24,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak9669&" alt="vinayak9669" /></p>
 
-### React.js Projects
+## React.js Projects
 > ### Professional-Level Projects
 
  ***Why Professional-Level?***
