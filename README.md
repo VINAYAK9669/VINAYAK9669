@@ -30,15 +30,15 @@
  Welcome to the React Pizza Order App, a professional-level web application that takes you through the entire process from user registration to order confirmation. This app is built using the latest technologies and follows best practices in React development. <br/>
 
  ***Flow & Implementations*** <br/>
- - `Home Page` : Collects ****Username****
+ - **`Home Page`** : Collects ****Username****
   
- - `Menu Page` : Show the list in UI from API, on each product have a functionality of ****Add to Cart**** ****Delete, Increase Qty, Decrease Qty****, ****Cart Details****
+ - **`Menu Page`** : Show the list in UI from API, on each product have a functionality of ****Add to Cart**** ****Delete, Increase Qty, Decrease Qty****, ****Cart Details****
    
- - `Cart Page` : back button to go to the `Menu page` , Display added items in the cart with quanitity, also option to ***Delete, Increase Qty, Decrease Qty*** Finally it have two buttons `Order pizzas` and `Clear Cart`.
+ - **`Cart Page`** : back button to go to the `Menu page` , Display added items in the cart with quanitity, also option to ***Delete, Increase Qty, Decrease Qty*** Finally it have two buttons `Order pizzas` and `Clear Cart`.
     
- -  `Order Form` : This form automaticaly takes First Name from the `Home Page`, it have another fields called 'Phone Number' and `Adress`. For Phone Number validation used `RegExp` and for Adress there is an option to `Get Position` by which we can fetch our location automatically. Also this form have an extra option to make the `order Priority`.
+ -  **`Order Form`** : This form automaticaly takes First Name from the `Home Page`, it have another fields called 'Phone Number' and `Adress`. For Phone Number validation used `RegExp` and for Adress there is an option to `Get Position` by which we can fetch our location automatically. Also this form have an extra option to make the `order Priority`.
    
- -  `Order Confirmation` : It shows the data  `priority Status`, `Preparing order`, `Minutes left to Delivery`, `Order Name with price`, `Total Bill`  
+ -  **`Order Confirmation`** : It shows the data  `priority Status`, `Preparing order`, `Minutes left to Delivery`, `Order Name with price`, `Total Bill`  
 
  ***Tech Stack used*** <br/>
  *React.js | React Router | Redux-tookit | Redux-thunk | Tailwind CSS* <br/>
@@ -88,11 +88,11 @@ The "React Quiz App" is a dynamic and engaging web application built with React.
 As you answer questions, the app instantly updates your score and provides a comprehensive scorecard once the quiz is completed. The quiz also includes an automatic submission feature when the timer runs out. <br/>
 
  ***Flow & Implementations*** <br/>
- - *`Home Page`* : This is basically a landing page shows the user `Number of questions` and `Button` to proceed.
+ - **`Home Page`** : This is basically a landing page shows the user `Number of questions` and `Button` to proceed.
    
- - *`Quiz Page`* : It have `Progress Bar`, `Question Tracking`, `Marks Tracking`. It is MCQ type questions , once user clicks on any option it will show the correct answer, if the answer is correct then it updates the marks else not, then shows the `Next Button` icon.
+ - **`Quiz Page`** : It have `Progress Bar`, `Question Tracking`, `Marks Tracking`. It is MCQ type questions , once user clicks on any option it will show the correct answer, if the answer is correct then it updates the marks else not, then shows the `Next Button` icon.
    
- - *`Result Page`* : It shows the `Total Marks`, 'Percentage' obtained and the `Dynamic Emojis` as per the result.
+ - **`Result Page`** : It shows the `Total Marks`, 'Percentage' obtained and the `Dynamic Emojis` as per the result.
 
  ***Tech Stack used*** <br/>
  *React.js | CSS | API* <br/>
