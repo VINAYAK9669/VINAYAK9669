@@ -79,7 +79,6 @@
 
 ---
 
-<br/> <br/>
 > #### 2] 🌍 WorldWise Map Application - Desktop App 🗺️
 
  ***Description***<br/>
@@ -114,7 +113,6 @@ This React Vite Single Page Application enables users to efficiently interact wi
 
 ---
 
-<br/> <br/>
 
 
 > #### 3] 🚀 React Quiz App
@@ -151,7 +149,6 @@ As you answer questions, the app instantly updates your score and provides a com
 ---
 
 
-<br/> <br/>
 
 > #### 4] 🚀 Booking Application with Calendar
 
@@ -193,7 +190,6 @@ This project involves the creation of a Booking App with an interactive calendar
 
 ---
 
-<br/> <br/>
 
 > ### Advance-Level Projects [React.js Based]
 <br/>
@@ -241,7 +237,6 @@ Experience the Movie Rating App – a seamless blend of user interaction and dat
 
 ---
 
-<br/> <br/>
 
 > #### 2] IP Address Tracker 🌍
 
@@ -274,7 +269,6 @@ This project is a solution to the IP address tracker challenge on Frontend Mento
 
 ---
 
-<br/> <br/>
 
 > #### 3] EduPath - Course Listing App
 
