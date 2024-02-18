@@ -280,15 +280,17 @@ EduPath is a web application designed to help students discover and enroll in co
  
 ***Implemented*** <br/>
 
-*`Map to show location based on IP Address`,`Error Handling`, `Loaders` to show page loading in UI,  `secured the API key` The solution involved referencing documentation to securely store the API key using a .env file*
+*`Navigation through pages` using Router, `Accordian Tabs` to show the syllabus, `Reusable Component`, `Advance State Mangement `using Redux , `Search the courses` by `course name, instructor, description of the given course`*
  <br/>
  ***Links***<br/>
- - [Netlify Hosted Link](https://vinayak9669.github.io/IP-ADDRESS-TRACKER/)
+ - [Netlify Hosted Link](https://edupath-course-app.netlify.app/)
  - [Github Repository](https://github.com/VINAYAK9669/IP-ADDRESS-TRACKER?tab=readme-ov-file)
 
 ***Screen Shot***<br/>
 <kbd>
-<img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/IO_ADDRESS_TRACKER.JPG" alt="drawing" width="350"/>
+<img src="https://github.com/VINAYAK9669/Alemeno_task--Online_Course/raw/main/public/screenshots/course_list.JPG" alt="drawing" width="350"/>
+<img src="https://github.com/VINAYAK9669/Alemeno_task--Online_Course/raw/main/public/screenshots/course_details.JPG" alt="drawing" width="350"/>
+<img src="https://github.com/VINAYAK9669/Alemeno_task--Online_Course/raw/main/public/screenshots/course_dashboard.JPG" alt="drawing" width="350"/>
 </kbd>
 
 <br/> <br/>
