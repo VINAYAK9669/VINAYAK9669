@@ -268,6 +268,49 @@ This project is a solution to the IP address tracker challenge on Frontend Mento
 </kbd>
 
 ---
+> #### 3] MultiStep Form
+
+ ***Description***<br/>
+This project is a solution to the Frontend Mentor challenge, where I created a responsive multistep form. In this we have 4 steps to complete the form. To navigate between the steps I have used `React-Router` and for the form data, for all different pages are handles using `Redux-toolkit`
+<br/>
+
+ ***Flow & Implementations*** <br/>
+ - **`Personal Information Page`** :
+    - This will take the `Name`, `Email`, `Phone Number`.
+    - At the bottom of the form need to show `Next Button`. It will allow user to next page when the fields are `Valid`
+    - Also made sure that user cannot navigate to the steps until this form completion.
+      
+ - **`Select Plan`**
+    - Here user need to select the plans. Here, there are 3 plans to select.
+    - Also there is slider to select the monthly or yearly plan
+    - At the bottom added `Go to Back` and `Next Button` 
+    
+- **`Picks Add-ons Page`**
+   - Provides a user three option like `Online Service`, `Larger Storage`, `Customizable Profile`
+   - Once user select any options need to send the data to the Global state.
+   - At the bottom added `Go to Back` and `Next Button` 
+    
+- **`Finishing Up`**
+   - This provides the summary of the order details.
+   - It have the details of `Choosen Plan`, `Choosen Add-ons`, `Total Bill`
+   - At the bottom added `Go to Back` and `Next Button`
+   - Once the user clicks on the `Next Button` then `Thank You` interface will appear.
+
+ ***Tech Stack used*** <br/>
+ *React.js | Vite| Tailwind | React-Router | Redux Toolkit* <br/>
+ 
+***Implemented*** <br/>
+* For Global State Management utilized the `Redux-toolkit`, To navigate between steps implemented `React-Router`*
+ <br/>
+ ***Links***<br/>
+ - [Netlify Hosted Link](https://edupath-course-app.netlify.app/)
+ - [Github Repository](https://github.com/VINAYAK9669/IP-ADDRESS-TRACKER?tab=readme-ov-file)
+
+***Screen Shot***<br/>
+<kbd>
+<img src="public/assets/screenshots/multistep_form.JPG" alt="drawing" width="300"/>
+</kbd>
+
 
 
 > #### 3] EduPath - Course Listing App
