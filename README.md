@@ -315,8 +315,47 @@ This project is a solution to the Frontend Mentor challenge, where I created a r
 </kbd>
 
 ---
+> #### 4] Job Listing App with Filter 🚀
 
-> #### 3] EduPath - Course Listing App
+ ***Description***<br/>
+This project is a Frontend Mentor challenge where the goal is to create a website with specified features and design. The website allows users to filter job listings based on various criteria and is implemented using React.js, Vite, ContextAPI, useReducer, Tailwind, and API integration.
+<br/>
+
+ ***Flow & Implementations*** <br/>
+1. **Responsive Design:**
+   - The website is designed to provide a seamless user experience on different devices.
+
+2. **Job Filtering:**
+   - Users can filter job listings based on Position, Level, Languages, and Tools.
+
+3. **Hover and Pointer Implementation:**
+   - Enhances user interaction and provides a clear understanding of UI elements.
+
+4. **Category Management:**
+   - Users can add, delete, and clear categories for efficient job filtering.
+
+ ***Tech Stack used*** <br/>
+ *React.js | Vite| Tailwind | React-Router | Redux Toolkit* <br/>
+ 
+## Implementation 🚧
+
+- **State Management:** ContextAPI, useReducer
+- **Responsive Design:** Ensures optimal viewing experience across various devices.
+ <br/>
+ 
+ ***Links***<br/>
+ 
+ - [Netlify Hosted Link](https://job-listing-frontend-mentor-challange.netlify.app/)
+ - [Github Repository](https://github.com/VINAYAK9669/Job-listing-App-Frontend-mentor/tree/main)
+
+***Screen Shot***<br/>
+
+<kbd>
+<img src="https://github.com/VINAYAK9669/Job-listing-App-Frontend-mentor/raw/main/screenshots/DesktopFilter.jpg" alt="drawing" width="350"/>
+</kbd>
+----
+
+> #### 5] EduPath - Course Listing App
 
  ***Description***<br/>
 EduPath is a web application designed to help students discover and enroll in courses. It features a Course Listing page with filters, a detailed Course Details screen, and a Student Dashboard to track enrolled courses.
