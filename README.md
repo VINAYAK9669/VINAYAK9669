@@ -353,6 +353,7 @@ This project is a Frontend Mentor challenge where the goal is to create a websit
 <kbd>
 <img src="https://github.com/VINAYAK9669/Job-listing-App-Frontend-mentor/raw/main/screenshots/DesktopFilter.jpg" alt="drawing" width="350"/>
 </kbd>
+
 ----
 
 > #### 5] EduPath - Course Listing App
