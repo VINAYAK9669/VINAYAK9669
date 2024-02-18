@@ -31,9 +31,13 @@
 
  ***Flow & Implementations*** <br/>
  - `Home Page` : Collects ****Username****
+  
  - `Menu Page` : Show the list in UI from API, on each product have a functionality of ****Add to Cart**** ****Delete, Increase Qty, Decrease Qty****, ****Cart Details****
- - `Cart Page` : back button to go to the `Menu page` , Display added items in the cart with quanitity, also option to ***Delete, Increase Qty, Decrease Qty*** Finally it have two buttons `Order pizzas` and `Clear Cart`. 
+   
+ - `Cart Page` : back button to go to the `Menu page` , Display added items in the cart with quanitity, also option to ***Delete, Increase Qty, Decrease Qty*** Finally it have two buttons `Order pizzas` and `Clear Cart`.
+    
  -  `Order Form` : This form automaticaly takes First Name from the `Home Page`, it have another fields called 'Phone Number' and `Adress`. For Phone Number validation used `RegExp` and for Adress there is an option to `Get Position` by which we can fetch our location automatically. Also this form have an extra option to make the `order Priority`.
+   
  -  `Order Confirmation` : It shows the data  `priority Status`, `Preparing order`, `Minutes left to Delivery`, `Order Name with price`, `Total Bill`  
 
  ***Tech Stack used*** <br/>
@@ -53,7 +57,9 @@ This React Vite Single Page Application enables users to efficiently interact wi
 
  ***Flow & Implementations*** <br/>
  - `Home Page` : It have `Landing Page`, Navigation bar for `Pricing`, `Product` and `Login`
+   
  - `Login Page` : This will `secure the AppLayout page [Secured Route]`, only after succefull sign in user can able to use map application.
+   
  - `App Layout Page` : It have  `interactive Map `at right side and at the left side there is dyanamic side bar it contains 'form' to add slected city information, 'city' and 'countries' tabs inside the sidebar which shows the list of cities added to the mock api and countries respectively. Also whenever we click on the map it will send that location information to the URL and open the form to add note for cities.
 
  ***Tech Stack used*** <br/>
@@ -83,7 +89,9 @@ As you answer questions, the app instantly updates your score and provides a com
 
  ***Flow & Implementations*** <br/>
  - `Home Page` : This is basically a landing page shows the user `Number of questions` and `Button` to proceed.
+   
  - `Quiz Page` : It have `Progress Bar`, `Question Tracking`, `Marks Tracking`. It is MCQ type questions , once user clicks on any option it will show the correct answer, if the answer is correct then it updates the marks else not, then shows the `Next Button` icon.
+   
  - `Result Page` : It shows the `Total Marks`, 'Percentage' obtained and the `Dynamic Emojis` as per the result.
 
  ***Tech Stack used*** <br/>
@@ -109,7 +117,9 @@ This project involves the creation of a Booking App with an interactive calendar
 
  ***Flow & Implementations*** <br/>
  - `One Intial Render` : On the Home page shown `Calendar`, and at the right side it's dyanamic sidebar which shows `instruction`, `form`, `Book Slot Button` and `Date Selected`. Initially the `Book a Slot` button is disbaled until date selcted from the calendar.
+   
  - `Once Date Selected from the Calandar` : Once the date is selected from the calander then `Book a Slot` button will now active , clicking on this will open the form which needs the field like `Name`, `Phone Number`, `Email`, `Purpose of Booking` and `Sots` to selects. Here user have option to select `Morning Slot` or `Noon Slot`. If both get booked then we have to lock the date for further booking on the same date and to show the `red mark` on it. If the only one slot is selected then on that date we have to show  `yellow mark`
+   
  - `Once Booking is confirmed` : If the user is booked the slot then confirm the details once again with popUp, if the user confirm the details then show the `Yellow` or `red` mark on the dates as discussed above.
 
  ***Tech Stack used*** <br/>
