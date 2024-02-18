@@ -68,6 +68,32 @@ This React Vite Single Page Application enables users to efficiently interact wi
 <img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/worldwise_poster.PNG" alt="drawing" width="350"/>
 
 <br/> <br/>
+> #### 3] 🚀 React Quiz App
+
+ ***Description***<br/>
+The "React Quiz App" is a dynamic and engaging web application built with React.js. This project offers a variety of features, including a complete responsive design for seamless use on different devices, a clean and intuitive user interface, and a timed quiz with a progress bar to track your progress.
+
+As you answer questions, the app instantly updates your score and provides a comprehensive scorecard once the quiz is completed. The quiz also includes an automatic submission feature when the timer runs out. <br/>
+
+ ***Flow & Implementations*** <br/>
+ - `Home Page` : This is basically a landing page shows the user `Number of questions` and `Button` to proceed.
+ - `Quiz Page` : It have `Progress Bar`, `Question Tracking`, `Marks Tracking`. It is MCQ type questions , once user clicks on any option it will show the correct answer, if the answer is correct then it updates the marks else not, then shows the `Next Button` icon.
+ - `Result Page` : It shows the `Total Marks`, 'Percentage' obtained and the `Dynamic Emojis` as per the result.
+
+ ***Tech Stack used*** <br/>
+ *React.js | CSS | API* <br/>
+ 
+***Implemented*** <br/>
+*State Mangement using `useReducer()`, Questions are fecthed from an API*
+ <br/>
+ ***Links***<br/>
+ - [Netlify Hosted Link](https://vinayak9669.github.io/React-QuizApp/)
+ - [Github Repository](https://github.com/VINAYAK9669/React-QuizApp)
+
+***Screen Shot***<br/>
+<img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/React_quiz_app_poster.PNG" alt="drawing" width="350"/>
+
+<br/> <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
