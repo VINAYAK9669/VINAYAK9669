@@ -129,8 +129,8 @@ This project involves the creation of a Booking App with an interactive calendar
 *`Calendar from Scratch` Calendar is completely built from scratch, we can navigate through the months and years. We can select dates it means its completely a interactive calender.*
  <br/>
  ***Links***<br/>
- - [Netlify Hosted Link](https://vinayak9669.github.io/React-QuizApp/)
- - [Github Repository](https://github.com/VINAYAK9669/BookingApp-with-Calendar-from-Scratch)
+ - [Netlify Hosted Link](https://booking-application-with-calendar.netlify.app/)
+ - [Github Repository](https://github.com/VINAYAK9669/BookingApp-with-Calendar-from-Scratch?tab=readme-ov-file)
 
 ***Screen Shot***<br/>
 <img src="https://github.com/VINAYAK9669/BookingApp-with-Calendar-from-Scratch/raw/main/public/screenshots/step-11.JPG" alt="drawing" width="350"/>
