@@ -149,8 +149,11 @@ Experience the Movie Rating App – a seamless blend of user interaction and dat
 
  ***Flow & Implementations*** <br/>
  - **`Landing Page`** : It have `Navigation Bar` which holds `Logo`, `Input search bar`, `Count of Results`. By `Input Search` we can search the required movie , and this data fecthes from an `API`. The number of results fecthed from the API will show in the nav bar `result found`.
+   
  - **`Once the Movie name is searched`** : Below the navigation bar there are two divisions of the screen left side we show the `List of the results` and  at the right side `Movie Details`.
+   
  - **`Upon Clicking the any movie`** : Once the user clicks on the movie `Movie Deatils` will show at the right side and ask to `Rate the Movie`. Once the user Rate the Movie then `Add to List` button will appear, clicking on this will result into the saving the movie details to the `Local Storage` so that we need to prevent the user to rate this movie again. Also to show them the list of `Watched Movie List`
+   
  - **`Upon Clicking Add to List`** : Once the user click on `Add to List` Button the right side bar now will show you the list of the added movies in to the wastched list. Now user can have the `Delete` option to delete the movie from `wacthed list`.
 
  ***Tech Stack used*** <br/>
