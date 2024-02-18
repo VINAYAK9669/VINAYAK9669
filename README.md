@@ -25,7 +25,11 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak9669&" alt="vinayak9669" /></p>
 
-## React.js Projects
+---
+
+<h1 align="center">React Projects</h1>
+---
+
 > ### Professional-Level Projects
 
  ***Why Professional-Level?***
@@ -73,6 +77,8 @@
 <img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/Pizza_order_app.JPG" alt="drawing" width="350"/> 
 </kbd>
 
+---
+
 <br/> <br/>
 > #### 2] 🌍 WorldWise Map Application - Desktop App 🗺️
 
@@ -105,6 +111,8 @@ This React Vite Single Page Application enables users to efficiently interact wi
 <kbd>
 <img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/worldwise_poster.PNG" alt="drawing" width="350"/>
 </kbd>
+
+---
 
 <br/> <br/>
 
@@ -139,6 +147,9 @@ As you answer questions, the app instantly updates your score and provides a com
 <kbd>
 <img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/React_quiz_app_poster.PNG" alt="drawing" width="350"/>
 </kbd>
+
+---
+
 
 <br/> <br/>
 
@@ -179,6 +190,8 @@ This project involves the creation of a Booking App with an interactive calendar
 <img src="https://github.com/VINAYAK9669/BookingApp-with-Calendar-from-Scratch/raw/main/public/screenshots/step-11.JPG" alt="drawing" width="350"/>
 <img src="https://github.com/VINAYAK9669/BookingApp-with-Calendar-from-Scratch/raw/main/public/screenshots/step-14.JPG" alt="drawing" width="350"/>
 </kbd>
+
+---
 
 <br/> <br/>
 
@@ -226,6 +239,8 @@ Experience the Movie Rating App – a seamless blend of user interaction and dat
 <img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/MovieRating_app_poster.PNG" alt="drawing" width="350"/>
 </kbd>
 
+---
+
 <br/> <br/>
 
 > #### 2] IP Address Tracker 🌍
@@ -257,6 +272,8 @@ This project is a solution to the IP address tracker challenge on Frontend Mento
 <img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/IO_ADDRESS_TRACKER.JPG" alt="drawing" width="350"/>
 </kbd>
 
+---
+
 <br/> <br/>
 
 > #### 3] EduPath - Course Listing App
@@ -287,7 +304,6 @@ EduPath is a web application designed to help students discover and enroll in co
  *React.js | Vite| Tailwind | API | Router* <br/>
  
 ***Implemented*** <br/>
-
 *`Navigation through pages` using Router, `Accordian Tabs` to show the syllabus, `Reusable Component`, `Advance State Mangement `using Redux , `Search the courses` by `course name, instructor, description of the given course`*
  <br/>
  ***Links***<br/>
