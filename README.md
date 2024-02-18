@@ -17,11 +17,9 @@
 - 📱 Call/Whatsapp On **+91 7822020891**
 
 <br/> <br/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak9669&show_icons=true&locale=en&layout=compact" alt="vinayak9669" />
-<br/>
-
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak9669&show_icons=true&locale=en" alt="vinayak9669" />
+ </p>
 <br/>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak9669&" alt="vinayak9669" /></p>
