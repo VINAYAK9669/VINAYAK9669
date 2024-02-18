@@ -111,10 +111,10 @@ This project involves the creation of a Booking App with an interactive calendar
  - `Once Booking is confirmed` : If the user is booked the slot then confirm the details once again with popUp, if the user confirm the details then show the `Yellow` or `red` mark on the dates as discussed above.
 
  ***Tech Stack used*** <br/>
- *React.js | CSS | API* <br/>
+ *React.js | Vite | Redux ToolKit | TailwindCSS | VS code* <br/>
  
 ***Implemented*** <br/>
-*State Mangement using `useReducer()`, Questions are fecthed from an API, timer using `setTimeout()`, Dyanamic `Progress Bar`*
+*`Calendar from Scratch` Calendar is completely built from scratch, we can navigate through the months and years. We can select dates it means its completely a interactive calender.*
  <br/>
  ***Links***<br/>
  - [Netlify Hosted Link](https://vinayak9669.github.io/React-QuizApp/)
