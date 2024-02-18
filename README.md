@@ -302,15 +302,17 @@ This project is a solution to the Frontend Mentor challenge, where I created a r
 ***Implemented*** <br/>
 * For Global State Management utilized the `Redux-toolkit`, To navigate between steps implemented `React-Router`*
  <br/>
+ 
  ***Links***<br/>
- - [Netlify Hosted Link](https://edupath-course-app.netlify.app/)
- - [Github Repository](https://github.com/VINAYAK9669/IP-ADDRESS-TRACKER?tab=readme-ov-file)
+ 
+ - [Netlify Hosted Link](https://multi-step-form-frontend-advance.netlify.app/)
+ - [Github Repository](https://github.com/VINAYAK9669/MultiStepForm-Frontend-Mentor-Advance-Level/tree/main?tab=readme-ov-file)
 
 ***Screen Shot***<br/>
+
 <kbd>
 <img src="public/assets/screenshots/multistep_form.JPG" alt="drawing" width="300"/>
 </kbd>
-
 
 
 > #### 3] EduPath - Course Listing App
