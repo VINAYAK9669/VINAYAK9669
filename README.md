@@ -337,7 +337,7 @@ This project is a Frontend Mentor challenge where the goal is to create a websit
  ***Tech Stack used*** <br/>
  *React.js | Vite| Tailwind | React-Router | Redux Toolkit* <br/>
  
-## Implementation 🚧
+***Implemented*** <br/>
 
 - **State Management:** ContextAPI, useReducer
 - **Responsive Design:** Ensures optimal viewing experience across various devices.
