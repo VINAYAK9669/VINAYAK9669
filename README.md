@@ -98,6 +98,33 @@ As you answer questions, the app instantly updates your score and provides a com
 <img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/React_quiz_app_poster.PNG" alt="drawing" width="350"/>
 
 <br/> <br/>
+
+> #### 4] 🚀 Booking Application with Calendar
+
+ ***Description***<br/>
+This project involves the creation of a Booking App with an interactive calendar to showcase venue availability. The app is built using React.js, Vite, Tailwind and Redux. It features a user-friendly calendar display, booking functionality for half-day slots, and a simple booking form with essential details. The booking procedure is streamlined with a popup window for confirming reservations.
+<br/>
+
+ ***Flow & Implementations*** <br/>
+ - `One Intial Render` : On the Home page shown `Calendar`, and at the right side it's dyanamic sidebar which shows `instruction`, `form`, `Book Slot Button` and `Date Selected`. Initially the `Book a Slot` button is disbaled until date selcted from the calendar.
+ - `Once Date Selected from the Calandar` : Once the date is selected from the calander then `Book a Slot` button will now active , clicking on this will open the form which needs the field like `Name`, `Phone Number`, `Email`, `Purpose of Booking` and `Sots` to selects. Here user have option to select `Morning Slot` or `Noon Slot`. If both get booked then we have to lock the date for further booking on the same date and to show the `red mark` on it. If the only one slot is selected then on that date we have to show  `yellow mark`
+ - `Once Booking is confirmed` : If the user is booked the slot then confirm the details once again with popUp, if the user confirm the details then show the `Yellow` or `red` mark on the dates as discussed above.
+
+ ***Tech Stack used*** <br/>
+ *React.js | CSS | API* <br/>
+ 
+***Implemented*** <br/>
+*State Mangement using `useReducer()`, Questions are fecthed from an API, timer using `setTimeout()`, Dyanamic `Progress Bar`*
+ <br/>
+ ***Links***<br/>
+ - [Netlify Hosted Link](https://vinayak9669.github.io/React-QuizApp/)
+ - [Github Repository](https://github.com/VINAYAK9669/BookingApp-with-Calendar-from-Scratch)
+
+***Screen Shot***<br/>
+<img src="https://github.com/VINAYAK9669/BookingApp-with-Calendar-from-Scratch/raw/main/public/screenshots/step-11.JPG" alt="drawing" width="350"/>
+<img src="https://github.com/VINAYAK9669/BookingApp-with-Calendar-from-Scratch/raw/main/public/screenshots/step-14.JPG" alt="drawing" width="350"/>
+
+<br/> <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
