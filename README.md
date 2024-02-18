@@ -79,7 +79,9 @@ This React Vite Single Page Application enables users to efficiently interact wi
  - [Github Repository](https://github.com/VINAYAK9669/WorldWiseWebAPP1/blob/main/README.md)
 
 ***Screen Shot***<br/>
+<kbd>
 <img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/worldwise_poster.PNG" alt="drawing" width="350"/>
+</kbd>
 
 <br/> <br/>
 
@@ -109,7 +111,9 @@ As you answer questions, the app instantly updates your score and provides a com
  - [Github Repository](https://github.com/VINAYAK9669/React-QuizApp)
 
 ***Screen Shot***<br/>
+<kbd>
 <img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/React_quiz_app_poster.PNG" alt="drawing" width="350"/>
+</kbd>
 
 <br/> <br/>
 
@@ -137,8 +141,10 @@ This project involves the creation of a Booking App with an interactive calendar
  - [Github Repository](https://github.com/VINAYAK9669/BookingApp-with-Calendar-from-Scratch?tab=readme-ov-file)
 
 ***Screen Shot***<br/>
+<kbd>
 <img src="https://github.com/VINAYAK9669/BookingApp-with-Calendar-from-Scratch/raw/main/public/screenshots/step-11.JPG" alt="drawing" width="350"/>
 <img src="https://github.com/VINAYAK9669/BookingApp-with-Calendar-from-Scratch/raw/main/public/screenshots/step-14.JPG" alt="drawing" width="350"/>
+</kbd>
 
 <br/> <br/>
 
@@ -172,8 +178,9 @@ Experience the Movie Rating App – a seamless blend of user interaction and dat
  - [Github Repository](https://github.com/VINAYAK9669/React_popcorn?tab=readme-ov-file)
 
 ***Screen Shot***<br/>
-
+<kbd>
 <img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/MovieRating_app_poster.PNG" alt="drawing" width="350"/>
+</kbd>
 
 <br/> <br/>
 
@@ -199,8 +206,9 @@ This project is a solution to the IP address tracker challenge on Frontend Mento
  - [Github Repository](https://github.com/VINAYAK9669/IP-ADDRESS-TRACKER?tab=readme-ov-file)
 
 ***Screen Shot***<br/>
-
+<kbd>
 <img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/IO_ADDRESS_TRACKER.JPG" alt="drawing" width="350"/>
+</kbd>
 
 <br/> <br/>
 <h3 align="left">Languages and Tools:</h3>
