@@ -24,8 +24,7 @@
 - Well! These projects adhere to industry best practices not only in website development but also in terms of code readability, component structures, and performance optimization.
 - In these applications, I've utilized cutting-edge technologies such as Redux Toolkit and Tailwind CSS, which elevate these projects to a professional level.
 <br/> <br/>
-|--------------------------------|
-|
+
 > #### 1] React Pizza Order App [Responsive]
 
  ***Description***<br/>
@@ -50,7 +49,9 @@
  - [Github Repository](https://github.com/VINAYAK9669/Pizza_ordering_app)
 
 ***ScreenShot***<br/>
-<img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/Pizza_order_app.JPG" alt="drawing" width="350"/> |
+<kbd>
+<img src="https://portfolio-vinayak-kittad.netlify.app/assets/img/Pizza_order_app.JPG" alt="drawing" width="350"/> 
+</kbd>
 <br/> <br/>
 > #### 2] 🌍 WorldWise Map Application - Desktop App 🗺️
 
