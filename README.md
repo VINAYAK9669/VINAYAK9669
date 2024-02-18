@@ -36,12 +36,12 @@
   
  - **`Menu Page`** :
      - Show the list in UI from API
-     - Each product have a functionality of ****Add to Cart**** ****Delete, Increase Qty, Decrease Qty****
+     - Each product have a functionality of `Add to Cart` `Delete`, `Increase Qty`, `Decrease Qty`
      - At the Bottom show the `Quantity of Item`, `Total Price` and `Open Cart Option`
    
  - **`Cart Page`** :
     - It have `Back to Menu` button to go to the `Menu page`
-    - Display added items in the cart with `quanitity`, also option to ***Delete, Increase Qty, Decrease Qty***
+    - Display added items in the cart with `quanitity`, also option to `Delete` ,`Increase Qty`, `Decrease Qty`
     - Finally it have two buttons `Order pizzas` and `Clear Cart`.
     - Once user clicks on the `Order pizzas` it will take user to the `Form Page / Order Form`
     
@@ -76,7 +76,10 @@ This React Vite Single Page Application enables users to efficiently interact wi
    
  - **`Login Page`** : This will `secure the AppLayout page [Secured Route]`, only after succefull sign in user can able to use map application.
    
- - **`App Layout Page`** : It have  `interactive Map `at right side and at the left side there is dyanamic side bar it contains 'form' to add slected city information, 'city' and 'countries' tabs inside the sidebar which shows the list of cities added to the mock api and countries respectively. Also whenever we click on the map it will send that location information to the URL and open the form to add note for cities.
+ - **`App Layout Page`** :
+   - It have  `interactive Map `at right side and at the left side there is dyanamic side bar
+   - It contains 'form' to add slected city information, 'city' and 'countries' tabs inside the sidebar which shows the list of cities added to the mock api and countries respectively.
+   - Also whenever we click on the `map` it will send that location information to the URL and open the form to add note for cities. Later using `useParams` we will get the `lng` and `lat` from URL
 
  ***Tech Stack used*** <br/>
  *React.js | React Router | CSS modules | API* <br/>
@@ -108,7 +111,9 @@ As you answer questions, the app instantly updates your score and provides a com
  ***Flow & Implementations*** <br/>
  - **`Home Page`** : This is basically a landing page shows the user `Number of questions` and `Button` to proceed.
    
- - **`Quiz Page`** : It have `Progress Bar`, `Question Tracking`, `Marks Tracking`. It is MCQ type questions , once user clicks on any option it will show the correct answer, if the answer is correct then it updates the marks else not, then shows the `Next Button` icon.
+ - **`Quiz Page`** :
+    - It have `Progress Bar`, `Question Tracking`, `Marks Tracking`.
+    - It is MCQ type questions , once user clicks on any option it will show the correct answer, if the answer is correct then it updates the marks else not, then shows the `Next Button` icon.
    
  - **`Result Page`** : It shows the `Total Marks`, 'Percentage' obtained and the `Dynamic Emojis` as per the result.
 
@@ -136,11 +141,20 @@ This project involves the creation of a Booking App with an interactive calendar
 <br/>
 
  ***Flow & Implementations*** <br/>
- - **`One Intial Render`** : On the Home page shown `Calendar`, and at the right side it's dyanamic sidebar which shows `instruction`, `form`, `Book Slot Button` and `Date Selected`. Initially the `Book a Slot` button is disbaled until date selcted from the calendar.
+ - **`One Intial Render`** :
+    - On the Home page shown `Calendar`, and at the right side it's dyanamic sidebar which shows `instruction`, `form`, `Book Slot Button` and `Date Selected`.
+    - Initially the `Book a Slot` button is disbaled until date selcted from the calendar.
    
- - **`Once Date Selected from the Calandar`** : Once the date is selected from the calander then `Book a Slot` button will now active , clicking on this will open the form which needs the field like `Name`, `Phone Number`, `Email`, `Purpose of Booking` and `Sots` to selects. Here user have option to select `Morning Slot` or `Noon Slot`. If both get booked then we have to lock the date for further booking on the same date and to show the `red mark` on it. If the only one slot is selected then on that date we have to show  `yellow mark`
+ - **`Once Date Selected from the Calandar`** :
+    - Once the date is selected from the calander then `Book a Slot` button will now active.
+    - Clicking on this will open the `form` which needs the field like `Name`, `Phone Number`, `Email`, `Purpose of Booking` and `Sots` to selects.
+    - Here user have option to select `Morning Slot` or `Noon Slot`.
+    - If both get booked then we have to lock the date for further booking on the same date and to show the `red mark` on it.
+    - If the only one slot is selected then on that date we have to show  `yellow mark`
    
- - **`Once Booking is confirmed`** : If the user is booked the slot then confirm the details once again with popUp, if the user confirm the details then show the `Yellow` or `red` mark on the dates as discussed above.
+ - **`Once Booking is confirmed`** :
+   - If the user is booked the slot then confirm the details once again with popUp.
+   -  If the user confirm the details then show the `Yellow` or `red` mark on the dates as discussed above.
 
  ***Tech Stack used*** <br/>
  *React.js | Vite | Redux ToolKit | TailwindCSS | VS code* <br/>
@@ -170,13 +184,23 @@ Experience the Movie Rating App – a seamless blend of user interaction and dat
 <br/>
 
  ***Flow & Implementations*** <br/>
- - **`Landing Page`** : It have `Navigation Bar` which holds `Logo`, `Input search bar`, `Count of Results`. By `Input Search` we can search the required movie , and this data fecthes from an `API`. The number of results fecthed from the API will show in the nav bar `result found`.
+ - **`Landing Page`** :
+    - It have `Navigation Bar` which holds `Logo`, `Input search bar`, `Count of Results`.
+    - By `Input Search` we can search the required movie , and this data fecthes from an `API`.
+    - The number of results fecthed from the API will show in the nav bar inside the `result found`.
    
- - **`Once the Movie name is searched`** : Below the navigation bar there are two divisions of the screen left side we show the `List of the results` and  at the right side `Movie Details`.
+ - **`Once the Movie name is searched`** :
+    - Below the navigation bar there are two divisions of the screen left side we show the `List of the results` and  at the right side `Movie Details`.
    
- - **`Upon Clicking the any movie`** : Once the user clicks on the movie `Movie Deatils` will show at the right side and ask to `Rate the Movie`. Once the user Rate the Movie then `Add to List` button will appear, clicking on this will result into the saving the movie details to the `Local Storage` so that we need to prevent the user to rate this movie again. Also to show them the list of `Watched Movie List`
+ - **`Upon Clicking the any movie`** :
+    - Once the user clicks on the movie, `Movie Deatils` will show at the right side and ask to `Rate the Movie`.
+    - Once the user Rate the Movie then `Add to List` button will appear.
+    -  Clicking on this will result into the saving the movie details to the `Local Storage` so that we need to prevent the user to rate this movie again.
+    -  Also to show them the list of `Watched Movie List` and this information come from `Local Storage`
    
- - **`Upon Clicking Add to List`** : Once the user click on `Add to List` Button the right side bar now will show you the list of the added movies in to the wastched list. Now user can have the `Delete` option to delete the movie from `wacthed list`.
+ - **`Upon Clicking Add to List`** :
+    - Once the user click on `Add to List` Button the right side bar now will show you the list of the added movies in to the wastched list.
+    - Now user can have the `Delete` option to delete the movie from `wacthed list`.
 
  ***Tech Stack used*** <br/>
  *React.js | CSS | API | VS code* <br/>
@@ -203,8 +227,11 @@ This project is a solution to the IP address tracker challenge on Frontend Mento
 <br/>
 
  ***Flow & Implementations*** <br/>
- - **`Landing Page`** : On intial render this website access the user `IP ADDRESS` and this data we will given to the `ipify` api which deternmines the `Latitude` and `Longitude` of that IP address. Once we get the `Latitude` and `Longitude` we will pass these data to the `Leaflet` map then it will show the location in the map.
- - **`Input search bar`** : Once user add the valid `Ip Address` then the same process need to happen as discussed above.
+ - **`Landing Page`** :
+    - On intial render this website access the user `IP ADDRESS` and this data we will given to the `ipify` api which deternmines the `Latitude` and `Longitude` of that IP address.
+    - Once we get the `Latitude` and `Longitude` we will pass these data to the `Leaflet` map then it will show the location in the map.
+ - **`Input search bar`** :
+    - Once user add the valid `Ip Address` then the same process need to happen as discussed above.
 
  ***Tech Stack used*** <br/>
  *React.js | Tailwind | API | Leaflet Library | Ipify Geolocation API* <br/>
