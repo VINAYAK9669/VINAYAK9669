@@ -56,7 +56,7 @@
 This React Vite Single Page Application enables users to efficiently interact with a map, allowing them to select locations for updating personal notes. Users can seamlessly add or delete cities, leveraging a mock API for local machine operations, as backend functionality is not available on the hosted website. <br/>
 
  ***Flow & Implementations*** <br/>
- - `Home Page` : It have `Landing Page`, Navigation bar for `Pricing`, `Product` and `Login`
+ - `**Home Page**` : It have `Landing Page`, Navigation bar for `Pricing`, `Product` and `Login`
    
  - `Login Page` : This will `secure the AppLayout page [Secured Route]`, only after succefull sign in user can able to use map application.
    
