@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-vinayak-kittad.netlify.app/](https://portfolio-vinayak-kittad.netlify.app/)
 
-- 💬 Ask me about **React.js, JavaScript-(ES6),Redux-toolkit,TailwindCSS,HTML,CSS**
+- 💬 Ask me about **React.js, JavaScript-(ES6),Redux-toolkit, React-Router,HTML,TailwindCSS, CSS, SASS**
 
 - 📫 How to reach me **Email: vinay.reactdeveloper@gmail.com**
 
