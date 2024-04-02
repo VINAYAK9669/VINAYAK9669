@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vinayak Kittad</h1>
 <h3 align="center">A passionate React.js frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak9669&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak9669" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D5616AQEVJm5y8OivmA/profile-displaybackgroundimage-shrink_350_1400/0/1712031302591?e=1717632000&v=beta&t=vrldvWqkwbUV4eIzkpkCFUAQuxgbB9injkrADKKM2AY" alt="vinayak9669" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak9669" alt="vinayak9669" /></a> </p>
 
