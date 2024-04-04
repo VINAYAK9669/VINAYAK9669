@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-VINAYAK9669" alt="GitHub Streak" />
+</p>
+
+ 
  <img src="https://media.licdn.com/dms/image/D5616AQEVJm5y8OivmA/profile-displaybackgroundimage-shrink_350_1400/0/1712031302591?e=1717632000&v=beta&t=vrldvWqkwbUV4eIzkpkCFUAQuxgbB9injkrADKKM2AY" alt="Masterimage">
 <h1 align="center">Hi 👋, I'm Vinayak Kittad</h1>
 <h3 align="center">A passionate React.js frontend developer</h3>
