@@ -15,7 +15,7 @@
 - 📱 Call/Whatsapp On **+91 7822020891**
 
   <p align="center">
-  <img src="https://github-readme-calendar.herokuapp.com?user=VINAYAK9669" alt="GitHub Contribution Calendar" />
+  <img src="https://github-readme-calendar.herokuapp.com?user=vinayak9669" alt="GitHub Contribution Calendar" />
 </p>
 
 
