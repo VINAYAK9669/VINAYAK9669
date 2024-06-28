@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak9669" alt="vinayak9669" /></a> </p>
 
-- 🌱 I’m currently learning **Backend [Node.js,Express, MangoDB, SQL]**
 
-- 💬 Ask me about **React.js | JavaScript-(ES6) | Redux-toolkit | React-Router | HTML |TailwindCSS |CSS | SASS**
+- 💬 Ask me about **React.js | JavaScript-(ES6) | Redux-toolkit | React-Router | HTML |TailwindCSS |CSS | SASS | Node.js | Express.js | MangoDB**
 
 - 📫 How to reach me **Email: vinay.reactdeveloper@gmail.com**
 
