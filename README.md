@@ -13,7 +13,7 @@
 
 - 📱 Call/Whatsapp On **+91 7822020891**
 
--🌏 Bangalore
+- 🌏 Bangalore
 
   <p align="center">
   <img src="https://github-readme-calendar.herokuapp.com?user=vinayak9669" alt="GitHub Contribution Calendar" />
