@@ -1,6 +1,5 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak9669&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak9669" /> </p>
- <img src="https://media.licdn.com/dms/image/D5616AQEVJm5y8OivmA/profile-displaybackgroundimage-shrink_350_1400/0/1712031302591?e=1717632000&v=beta&t=vrldvWqkwbUV4eIzkpkCFUAQuxgbB9injkrADKKM2AY" alt="Masterimage">
 <h1 align="center">Hi 👋, I'm Vinayak Kittad</h1>
 <h3 align="center">A passionate React.js frontend developer</h3>
 
@@ -13,6 +12,8 @@
 - 📫 How to reach me **Email: vinay.reactdeveloper@gmail.com**
 
 - 📱 Call/Whatsapp On **+91 7822020891**
+
+-🌏 Bangalore
 
   <p align="center">
   <img src="https://github-readme-calendar.herokuapp.com?user=vinayak9669" alt="GitHub Contribution Calendar" />
