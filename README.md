@@ -36,6 +36,7 @@
 | School Management Application  | <ul><li>Role-based access for admins, teachers, and students to manage classes and user details.</li><li>Integrated financial reporting with interactive charts.</li><li>Implemented aggregation pipeline for advanced data analytics.</li><li>Real-time dashboards for class management and analytics.</li><li>Responsive, mobile-first design for cross-device accessibility.</li></ul> | MERN, React Router, Tanstack Query, Axios, React-hot-toast, TailwindCSS, JavaScript, Chart.js | |
 
 <h1>Major Frontend Application</h1>
+
 | Frontend Application    | Description   | Techstack Used   |  Links |
 | :------------: | :------------ | :------------ |:------------ |
 | Wild Oasis                       | <ul><li>Developed a user-friendly e-commerce platform with an intuitive UI for browsing products.</li><li>Implemented secure payment gateways for seamless transactions.</li><li>Features include product filtering, sorting, and user account management.</li><li>Responsive design for optimal user experience across devices.</li></ul> | MERN, Redux, Axios, CSS, JavaScript | |
