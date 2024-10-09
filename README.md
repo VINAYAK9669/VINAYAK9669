@@ -32,8 +32,9 @@
 
 | Fullstack Application    | Description   | Techstack Used   |  Links |
 | :------------: | :------------ | :------------ |:------------ |
-| FormBot Application  | Developed a full-stack form builder allowing users to create, customize, and share forms with real-time response tracking. Implemented secure authentication with role-based access control for data privacy. Designed a responsive, user-friendly interface for form creation and real-time analytics. Automated shareable link generation and ensured a seamless cross-device experience.  | MERN, React Router, Tanstack Query, Axios, React-hot-toast, CSS, JavaScript | [Repo](https://github.com/VINAYAK9669/Cuvette_Final_Evaluation_Test) / [Hosted](https://fullstack-formbot-vinay9669.netlify.app/) |
-| School Management Application  | Developed a school management system with role-based access for admins, teachers, and students to manage classes, subjects, and user details. Integrated dynamic financial reporting with interactive charts and real-time dashboards for class management and analytics. Ensured responsive, mobile-first design for seamless accessibility across devices. |  MERN, React Router, Tanstack Query, Axios, React-hot-toast, TailwindCSS, JavaScript, Chart.js |         |
+| FormBot Application  | <ul><li>Full-stack form builder for creating, customizing, and sharing forms with real-time response tracking.</li><li>Secure authentication with role-based access control for data privacy.</li><li>Responsive design with real-time analytics and automated shareable link generation.</li><li>Seamless cross-device functionality.</li></ul>  | MERN, React Router, Tanstack Query, Axios, React-hot-toast, CSS, JavaScript | [Repo](https://github.com/VINAYAK9669/Cuvette_Final_Evaluation_Test) / [Hosted](https://fullstack-formbot-vinay9669.netlify.app/) |
+| School Management Application  | <ul><li>Role-based access for admins, teachers, and students to manage classes and user details.</li><li>Integrated financial reporting with interactive charts.</li><li>Real-time dashboards for class management and analytics.</li><li>Responsive, mobile-first design for cross-device accessibility.</li></ul> | MERN, React Router, Tanstack Query, Axios, React-hot-toast, TailwindCSS, JavaScript, Chart.js | |
+
 
 
 
