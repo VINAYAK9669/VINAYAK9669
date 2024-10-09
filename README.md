@@ -30,10 +30,11 @@
 
 <h1>Major Projects</h1>
 
-| Fullstack Application    | Description   | Techstack Used   |
-| :------------: | :------------ | :------------ |
-| Row 1, Col 1  | Row 1, Col 2   | Row 1, Col 3  |
-| Row 2, Col 1  | Row 2, Col 2   | Row 2, Col 3  |
+| Fullstack Application    | Description   | Techstack Used   |  Links |
+| :------------: | :------------ | :------------ |:------------ |
+| FormBot Application  | Developed a full-stack form builder allowing users to create, customize, and share forms with real-time response tracking. Implemented secure authentication with role-based access control for data privacy. Designed a responsive, user-friendly interface for form creation and real-time analytics. Automated shareable link generation and ensured a seamless cross-device experience.  | Row 1, Col 3  | [Repo](https://github.com/link-to-repo) / [Hosted](https://hosted-link.com) |
+| Row 2, Col 1  | Row 2, Col 2   | Row 2, Col 3  |         |
+
 
 
 ---
