@@ -1,12 +1,12 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak9669&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak9669" /> </p>
 <h1 align="center">Hi 👋, I'm Vinayak Kittad</h1>
-<h3 align="center">A passionate React.js frontend developer</h3>
+<h3 align="center">A passionate Fullstack (MERN) developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak9669" alt="vinayak9669" /></a> </p>
 
 
-- 💬 Ask me about **React.js | JavaScript-(ES6) | Redux-toolkit | React-Router | HTML |TailwindCSS |CSS | SASS | Node.js | Express.js | MangoDB**
+- 💬 Ask me about **React.js | JavaScript-(ES6) | Redux-toolkit | Tanstack-Router | HTML |TailwindCSS | CSS | SASS | Node.js | Express.js | MangoDB | Mongoose | Next.js**
 
 - 📫 How to reach me **Email: vinay.reactdeveloper@gmail.com**
 
@@ -27,6 +27,14 @@
 <br/>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak9669&" alt="vinayak9669" /></p>
+
+<h1>Major Projects</h1>
+
+| Fullstack Application    | Description   | Techstack Used   |
+| :------------: | :------------ | :------------ |
+| Row 1, Col 1  | Row 1, Col 2   | Row 1, Col 3  |
+| Row 2, Col 1  | Row 2, Col 2   | Row 2, Col 3  |
+
 
 ---
 
