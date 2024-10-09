@@ -28,12 +28,17 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak9669&" alt="vinayak9669" /></p>
 
-<h1>Major Projects</h1>
+<h1>Major Fullstack Application</h1>
 
 | Fullstack Application    | Description   | Techstack Used   |  Links |
 | :------------: | :------------ | :------------ |:------------ |
 | FormBot Application  | <ul><li>Full-stack form builder for creating, customizing, and sharing forms with real-time response tracking.</li><li>Secure authentication with role-based access control for data privacy.</li><li>Responsive design with real-time analytics and automated shareable link generation.</li><li>Seamless cross-device functionality.</li></ul>  | MERN, React Router, Tanstack Query, Axios, React-hot-toast, CSS, JavaScript | [Repo](https://github.com/VINAYAK9669/Cuvette_Final_Evaluation_Test) / [Hosted](https://fullstack-formbot-vinay9669.netlify.app/) |
-| School Management Application  | <ul><li>Role-based access for admins, teachers, and students to manage classes and user details.</li><li>Integrated financial reporting with interactive charts.</li><li>Real-time dashboards for class management and analytics.</li><li>Responsive, mobile-first design for cross-device accessibility.</li></ul> | MERN, React Router, Tanstack Query, Axios, React-hot-toast, TailwindCSS, JavaScript, Chart.js | |
+| School Management Application  | <ul><li>Role-based access for admins, teachers, and students to manage classes and user details.</li><li>Integrated financial reporting with interactive charts.</li><li>Implemented aggregation pipeline for advanced data analytics.</li><li>Real-time dashboards for class management and analytics.</li><li>Responsive, mobile-first design for cross-device accessibility.</li></ul> | MERN, React Router, Tanstack Query, Axios, React-hot-toast, TailwindCSS, JavaScript, Chart.js | |
+
+<h1>Major Frontend Application</h1>
+| Frontend Application    | Description   | Techstack Used   |  Links |
+| :------------: | :------------ | :------------ |:------------ |
+| Wild Oasis                       | <ul><li>Developed a user-friendly e-commerce platform with an intuitive UI for browsing products.</li><li>Implemented secure payment gateways for seamless transactions.</li><li>Features include product filtering, sorting, and user account management.</li><li>Responsive design for optimal user experience across devices.</li></ul> | MERN, Redux, Axios, CSS, JavaScript | |
 
 
 
